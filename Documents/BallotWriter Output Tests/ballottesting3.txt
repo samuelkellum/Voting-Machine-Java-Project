@@ -1,0 +1,8 @@
+RESULTS - President
+--------------------
+Donald J. Trump - Republican                                       0
+Jo Jorgensen - Libertarian                                       1
+Joe Biden - Democrat                                       0
+Bernie Sanders -  Independent                                       0
+
+WINNER:Jo Jorgensen-Libertarian

@@ -1,0 +1,6 @@
+President
+4
+Donald J. Trump;Republican Party
+Jo Jorgensen;Libertarian
+Joe Biden;Democrat
+Bernie Sanders;Independent

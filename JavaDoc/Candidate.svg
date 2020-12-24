@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="141px" preserveAspectRatio="none" style="width:200px;height:141px;" version="1.1" viewBox="0 0 200 141" width="200px" zoomAndPan="magnify"><defs><filter height="300%" id="f1gidjf6e1pqe0" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[d1f051c962f93ac764d41377d96968df]
+class Candidate--><a href="Candidate.html" target="_top" title="Candidate.html" xlink:actuate="onRequest" xlink:href="Candidate.html" xlink:show="new" xlink:title="Candidate.html" xlink:type="simple"><rect codeLine="5" fill="#FEFECE" filter="url(#f1gidjf6e1pqe0)" height="104.7754" id="Candidate" style="stroke: #A80036; stroke-width: 1.5;" width="158" x="15" y="7"/><ellipse cx="60.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M62.7231,29.1431 Q62.1421,29.4419 61.5029,29.5913 Q60.8638,29.7407 60.1582,29.7407 Q57.6514,29.7407 56.3315,28.0889 Q55.0117,26.437 55.0117,23.3159 Q55.0117,20.1865 56.3315,18.5347 Q57.6514,16.8828 60.1582,16.8828 Q60.8638,16.8828 61.5112,17.0322 Q62.1587,17.1816 62.7231,17.4805 L62.7231,20.2031 Q62.0923,19.6221 61.4988,19.3523 Q60.9053,19.0825 60.2744,19.0825 Q58.9297,19.0825 58.2449,20.1492 Q57.5601,21.2158 57.5601,23.3159 Q57.5601,25.4077 58.2449,26.4744 Q58.9297,27.541 60.2744,27.541 Q60.9053,27.541 61.4988,27.2712 Q62.0923,27.0015 62.7231,26.4204 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="59" x="80.75" y="27.5352">Candidate</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="16" x2="172" y1="39" y2="39"/><ellipse cx="26" cy="50" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="132" x="35" y="53.6348">Candidate(String, String)</text><ellipse cx="26" cy="62.9551" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93" x="35" y="66.5898">getName(): String</text><ellipse cx="26" cy="75.9102" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="115" x="35" y="79.5449">getAffiliation(): String</text><ellipse cx="26" cy="88.8652" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="102" x="35" y="92.5">getVoteCount(): int</text><ellipse cx="26" cy="101.8203" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="83" x="35" y="105.4551">tallyVote(): void</text></a><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="188" x="0" y="128.4434">UMLDoclet 2.0.12, PlantUML 1.2020.16</text><!--MD5=[025a91153c7c63346666c96d37464898]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class Candidate [[Candidate.html]] {
+        +Candidate(String, String)
+        +getName(): String
+        +getAffiliation(): String
+        +getVoteCount(): int
+        +tallyVote(): void
+    }
+
+    center footer UMLDoclet 2.0.12, PlantUML 1.2020.16
+@enduml
+
+PlantUML version 1.2020.16(Sun Aug 23 15:20:43 CDT 2020)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
